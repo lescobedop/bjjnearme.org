@@ -1,0 +1,22 @@
+# RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS system files
+.DS_Store
+
+# Raw and interim data — do not version
+data/raw/
+data/interim/
+data/old_processed/
+
+# Optional: ignore exports if large
+# data/exports/
+
+# Reports and output docs
+reports/
+
+# Archived scripts
+scripts/scripts_legacy_do_not_use/
