@@ -20,3 +20,7 @@ reports/
 
 # Archived scripts
 scripts/scripts_legacy_do_not_use/
+brand/
+data/
+.DS_Store
+.Rproj.user/
